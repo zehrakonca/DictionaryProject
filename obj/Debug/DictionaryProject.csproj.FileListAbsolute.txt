@@ -1,1 +1,6 @@
 c:\users\zehra\onedrive\documents\visual studio 2015\Projects\DictionaryProject\DictionaryProject\bin\Debug\DictionaryProject.exe.config
+c:\users\zehra\onedrive\documents\visual studio 2015\Projects\DictionaryProject\DictionaryProject\bin\Debug\DictionaryProject.exe
+c:\users\zehra\onedrive\documents\visual studio 2015\Projects\DictionaryProject\DictionaryProject\bin\Debug\DictionaryProject.pdb
+c:\users\zehra\onedrive\documents\visual studio 2015\Projects\DictionaryProject\DictionaryProject\obj\Debug\DictionaryProject.csprojResolveAssemblyReference.cache
+c:\users\zehra\onedrive\documents\visual studio 2015\Projects\DictionaryProject\DictionaryProject\obj\Debug\DictionaryProject.exe
+c:\users\zehra\onedrive\documents\visual studio 2015\Projects\DictionaryProject\DictionaryProject\obj\Debug\DictionaryProject.pdb
